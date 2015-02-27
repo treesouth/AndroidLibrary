@@ -59,6 +59,7 @@ Title | Description | ScreenShot
 [SecretTextView](https://github.com/matthewrkula/SecretTextView) | A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds.|![img](./art/SecretTextView.gif)
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView.|![img](./art/Titanic.gif)
 [BabushkaText](https://github.com/quiqueqs/BabushkaText) | A simpler way to style your TextViews.|![img](./art/BabushkaText.png)
+[ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | Android's TextView that can expand/collapse like the Google Play's app description.|![img](./art/ExpandableTextView.gif)
 ###### <a name="button">Button
 
 ###### <a name="edittext">EditText
