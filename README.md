@@ -54,7 +54,7 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 ###### <a name="textview">TextView
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
-[AwesomeText](https://github.com/JMPergar/AwesomeText) | A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...).|![img](./Widget/AwesomeText.png)
+[AwesomeText](https://github.com/JMPergar/AwesomeText) | A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...).|![img](./art/AwesomeText.png)
 ###### <a name="button">Button
 
 ###### <a name="edittext">EditText
