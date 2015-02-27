@@ -55,8 +55,9 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [AwesomeText](https://github.com/JMPergar/AwesomeText) | A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...)|![img](./art/AwesomeText.png)
-[TimelyTextView](https://github.com/adnan-SM/TimelyTextView) | Animated TextView like Timely app|![img](./art/TimelyTextView.gif)
+[TimelyTextView](https://github.com/adnan-SM/TimelyTextView) | Animated TextView like Timely app.|![img](./art/TimelyTextView.gif)
 [SecretTextView](https://github.com/matthewrkula/SecretTextView) | A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds.|![img](./art/SecretTextView.gif)
+[Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView.|![img](./art/Titanic.gif)
 ###### <a name="button">Button
 
 ###### <a name="edittext">EditText
