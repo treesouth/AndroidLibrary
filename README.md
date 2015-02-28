@@ -91,7 +91,11 @@ Title | Description | ScreenShot
 [SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView) | Android ImageView that supports different radii on each corner.|![img](./art/SelectableRoundedImageView.jpg)
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android.|![img](./art/CircleImageView.png)
 [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs.|![img](./art/CustomShapeImageView.png)
+
 ###### <a name="progressbar">ProgressBar
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android.|![img](./art/CircleImageView.png)
 
 ###### <a name="seekbar">SeekBar
 
@@ -133,6 +137,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [material-menu](https://github.com/balysv/material-menu) | Animation port of Android L drawer, back, dismiss and check icons.|![img](./art/material-menu.gif)
+[MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | A simple take on creating an easy to use and fast material navigation drawer implementation.|![img](./art/MaterialDrawer.png)
 
 ### <a name="location">Location
 
