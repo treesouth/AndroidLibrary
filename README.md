@@ -95,7 +95,7 @@ Title | Description | ScreenShot
 ###### <a name="progressbar">ProgressBar
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
-[CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android.|![img](./art/CircleImageView.png)
+[SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar.|![img](./art/SmoothProgressBar.png)
 
 ###### <a name="seekbar">SeekBar
 
