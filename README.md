@@ -98,6 +98,7 @@ Title | Description | ScreenShot
 [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar.|![img](./art/SmoothProgressBar.png)
 [dashed-circular-progress](https://github.com/glomadrian/dashed-circular-progress) | A Circular progress animated where you can put any view inside.|![img](./art/dashed-circular-progress.png)
 [WaveView](https://github.com/john990/WaveView) | A wave view of android,can be used as progress bar.|![img](./art/WaveView.gif)
+[CircleProgress](https://github.com/lzyzsd/CircleProgress) | CircleProgress, DonutProgress, ArcProgress.|![img](./art/CircleProgress.gif)
 
 ###### <a name="seekbar">SeekBar
 
