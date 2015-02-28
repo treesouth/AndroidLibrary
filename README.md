@@ -61,6 +61,7 @@ Title | Description | ScreenShot
 [BabushkaText](https://github.com/quiqueqs/BabushkaText) | A simpler way to style your TextViews.|![img](./art/BabushkaText.png)
 [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | Android's TextView that can expand/collapse like the Google Play's app description.|![img](./art/ExpandableTextView.gif)
 [AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView) | A TextView that automatically fit its font and line count based on its available size and content.|![img](./art/AutoFitTextView.gif)
+[MagicViews](https://github.com/ikocijan/MagicViews) | Set custom font in Android application.|![img](./art/MagicViews.jpg)
 ###### <a name="button">Button
 
 ###### <a name="edittext">EditText
