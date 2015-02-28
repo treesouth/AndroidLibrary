@@ -89,6 +89,7 @@ Title | Description | ScreenShot
 [ColorArt](https://github.com/MichaelEvans/ColorArt) | ColorArt is a library that uses an image to create a themed image/text display.|![img](./art/ColorArt.png)
 [TextDrawable](https://github.com/amulyakhare/TextDrawable) | It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.|![img](./art/TextDrawable.png)
 [SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView) | Android ImageView that supports different radii on each corner.|![img](./art/SelectableRoundedImageView.jpg)
+[CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android.|![img](./art/CircleImageView.png)
 
 ###### <a name="progressbar">ProgressBar
 
