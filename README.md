@@ -87,6 +87,7 @@ Title | Description | ScreenShot
 [PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures.|None
 [android-gif-drawable](https://github.com/koral--/android-gif-drawable) | Views and Drawable for displaying animated GIFs on Android.|None
 [ColorArt](https://github.com/MichaelEvans/ColorArt) | ColorArt is a library that uses an image to create a themed image/text display.|![img](./art/ColorArt.png)
+[TextDrawable](https://github.com/amulyakhare/TextDrawable) | It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.|![img](./art/TextDrawable.png)
 
 ###### <a name="progressbar">ProgressBar
 
