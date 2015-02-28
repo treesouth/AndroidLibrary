@@ -99,6 +99,7 @@ Title | Description | ScreenShot
 [dashed-circular-progress](https://github.com/glomadrian/dashed-circular-progress) | A Circular progress animated where you can put any view inside.|![img](./art/dashed-circular-progress.png)
 [WaveView](https://github.com/john990/WaveView) | A wave view of android,can be used as progress bar.|![img](./art/WaveView.gif)
 [CircleProgress](https://github.com/lzyzsd/CircleProgress) | CircleProgress, DonutProgress, ArcProgress.|![img](./art/CircleProgress.gif)
+[RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | Round Corner Progress Bar Library for Android.|![img](./art/RoundCornerProgressBar.png)
 
 ###### <a name="seekbar">SeekBar
 
