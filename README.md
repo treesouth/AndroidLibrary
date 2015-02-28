@@ -96,6 +96,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar.|![img](./art/SmoothProgressBar.png)
+[dashed-circular-progress](https://github.com/glomadrian/dashed-circular-progress) | A Circular progress animated where you can put any view inside.|![img](./art/dashed-circular-progress.png)
 
 ###### <a name="seekbar">SeekBar
 
