@@ -78,6 +78,7 @@ Title | Description | ScreenShot
 [android-flat-button](https://github.com/hoang8f/android-flat-button) | FButton - a flat button library for Android.|![img](./art/android-flat-button.png)
 [android-circlebutton](https://github.com/markushi/android-circlebutton/) | Circle button widget for Android.|![img](./art/android-circlebutton.gif)
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | Bootstrap style buttons with Font Awesome.|![img](./art/Android-Bootstrap.png)
+[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | Android Circular Progress Button.|![img](./art/circular-progress-button.gif)
 
 ###### <a name="imageview">ImageView
 
