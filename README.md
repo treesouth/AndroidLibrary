@@ -68,6 +68,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [floatlabelededittext](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text.|![img](./art/floatlabelededittext.gif)
+[android-edittext-validator](https://github.com/vekexasia/android-edittext-validator) | Android form edit text is an extension of EditText that brings data validation facilities to the edittext..|![img](./art/edittext-validator.jpg)
 
 ###### <a name="button">Button
 
