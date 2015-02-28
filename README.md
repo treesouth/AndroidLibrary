@@ -89,8 +89,8 @@ Title | Description | ScreenShot
 [SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView) | Android ImageView that supports different radii on each corner.|![img](./art/SelectableRoundedImageView.jpg)
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android.|![img](./art/CircleImageView.png)
 [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs.|![img](./art/CustomShapeImageView.png)
-[PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures.|None
-[android-gif-drawable](https://github.com/koral--/android-gif-drawable) | Views and Drawable for displaying animated GIFs on Android.|None
+[PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures.| 		None    	
+[android-gif-drawable](https://github.com/koral--/android-gif-drawable) | Views and Drawable for displaying animated GIFs on Android.| 		None		
 
 ###### <a name="progressbar">ProgressBar
 Title | Description | ScreenShot
