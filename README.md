@@ -8,8 +8,7 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[EditText](#edittext)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Button](#button)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[SeekBar](#seekbar)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ViewPager](#viewpager)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[GridView](#gridview)  
@@ -102,8 +101,6 @@ Title | Description | ScreenShot
 [RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | Round Corner Progress Bar Library for Android.|![img](./art/RoundCornerProgressBar.png)
 [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | A beautiful, slim Android ProgressBar.|![img](./art/NumberProgressBar.png)
 
-###### <a name="seekbar">SeekBar
-
 ###### <a name="listview">ListView
 
 ###### <a name="viewpager">ViewPager
@@ -144,6 +141,7 @@ Title | Description | ScreenShot
 [material-menu](https://github.com/balysv/material-menu) | Animation port of Android L drawer, back, dismiss and check icons.|![img](./art/material-menu.gif)
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | A simple take on creating an easy to use and fast material navigation drawer implementation.|![img](./art/MaterialDrawer.png)
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | A material style progress wheel compatible with 2.3.|![img](./art/materialish-progress.gif)
+[discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.|![img](./art/discreteSeekBar.gif)
 
 ### <a name="location">Location
 
