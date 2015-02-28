@@ -9,9 +9,9 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Button](#button)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[SeekBar](#seekbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ViewPager](#viewpager)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[SeekBar](#seekbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[GridView](#gridview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ScrollView](#scrollview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
@@ -82,14 +82,17 @@ Title | Description | ScreenShot
 [SwitchButton](https://github.com/kyleduo/SwitchButton) | A cute widget of Switch Button for you to create beautiful and friendly UI.|![img](./art/SwitchButton.png)
 
 ###### <a name="imageview">ImageView
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures.|None
 
 ###### <a name="progressbar">ProgressBar
+
+###### <a name="seekbar">SeekBar
 
 ###### <a name="listview">ListView
 
 ###### <a name="viewpager">ViewPager
-
-###### <a name="seekbar">SeekBar
 
 ###### <a name="gridview">GridView
 
