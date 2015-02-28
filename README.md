@@ -100,6 +100,7 @@ Title | Description | ScreenShot
 [WaveView](https://github.com/john990/WaveView) | A wave view of android,can be used as progress bar.|![img](./art/WaveView.gif)
 [CircleProgress](https://github.com/lzyzsd/CircleProgress) | CircleProgress, DonutProgress, ArcProgress.|![img](./art/CircleProgress.gif)
 [RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | Round Corner Progress Bar Library for Android.|![img](./art/RoundCornerProgressBar.png)
+[NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | A beautiful, slim Android ProgressBar.|![img](./art/NumberProgressBar.png)
 
 ###### <a name="seekbar">SeekBar
 
@@ -142,6 +143,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [material-menu](https://github.com/balysv/material-menu) | Animation port of Android L drawer, back, dismiss and check icons.|![img](./art/material-menu.gif)
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | A simple take on creating an easy to use and fast material navigation drawer implementation.|![img](./art/MaterialDrawer.png)
+[materialish-progress](https://github.com/pnikosis/materialish-progress) | A material style progress wheel compatible with 2.3.|![img](./art/materialish-progress.gif)
 
 ### <a name="location">Location
 
