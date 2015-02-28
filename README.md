@@ -5,8 +5,8 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Button](#button)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[EditText](#edittext)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Button](#button)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
@@ -63,9 +63,13 @@ Title | Description | ScreenShot
 [AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView) | A TextView that automatically fit its font and line count based on its available size and content.|![img](./art/AutoFitTextView.gif)
 [MagicViews](https://github.com/ikocijan/MagicViews) | Set custom font in Android application.|![img](./art/MagicViews.jpg)
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect.|![img](./art/Shimmer-android.gif)
-###### <a name="button">Button
 
 ###### <a name="edittext">EditText
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[floatlabelededittext](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text.|![img](./art/floatlabelededittext.gif)
+
+###### <a name="button">Button
 
 ###### <a name="imageview">ImageView
 
