@@ -76,6 +76,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) | Android Buttons With Built-in Progress Meters.|![img](./art/android-process-button.gif)
 [android-flat-button](https://github.com/hoang8f/android-flat-button) | FButton - a flat button library for Android.|![img](./art/android-flat-button.png)
+[android-circlebutton](https://github.com/markushi/android-circlebutton/) | Circle button widget for Android.|![img](./art/android-circlebutton.gif)
 
 ###### <a name="imageview">ImageView
 
