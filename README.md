@@ -27,6 +27,7 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Charts](#chartsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](#material)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
@@ -111,6 +112,8 @@ Title | Description | ScreenShot
 #### <a name="chartsui">Charts
 
 #### <a name="otherui">Other
+
+### <a name="material">Material Design
 
 ### <a name="location">Location
 
