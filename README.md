@@ -79,6 +79,7 @@ Title | Description | ScreenShot
 [android-circlebutton](https://github.com/markushi/android-circlebutton/) | Circle button widget for Android.|![img](./art/android-circlebutton.gif)
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | Bootstrap style buttons with Font Awesome.|![img](./art/Android-Bootstrap.png)
 [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | Android Circular Progress Button.|![img](./art/circular-progress-button.gif)
+[SwitchButton](https://github.com/kyleduo/SwitchButton) | A cute widget of Switch Button for you to create beautiful and friendly UI.|![img](./art/SwitchButton.png)
 
 ###### <a name="imageview">ImageView
 
