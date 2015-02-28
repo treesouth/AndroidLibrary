@@ -121,6 +121,9 @@ Title | Description | ScreenShot
 #### <a name="otherui">Other
 
 ### <a name="material">Material Design
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[material-menu](https://github.com/balysv/material-menu) | Animation port of Android L drawer, back, dismiss and check icons.|![img](./art/material-menu.gif)
 
 ### <a name="location">Location
 
