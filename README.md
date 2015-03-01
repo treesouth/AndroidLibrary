@@ -105,6 +105,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!.|![img](./art/NotBoringActionBar.gif)
+[FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app.|![img](./art/FadingActionBar.png)
 
 ###### <a name="listview">ListView
 
