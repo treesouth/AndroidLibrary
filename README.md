@@ -104,7 +104,7 @@ Title | Description | ScreenShot
 ###### <a name="actionbar">ActionBar
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
-[NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!.|![img](./art/NotBoringActionBar.gif)
+[NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring.|![img](./art/NotBoringActionBar.gif)
 [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app.|![img](./art/FadingActionBar.png)
 
 ###### <a name="listview">ListView
@@ -112,6 +112,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items.|![img](./art/ListViewAnimations.gif)
 [android-swipelistview](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features.|![img](./art/android-swipelistview.png)
+[JazzyListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible.| None
 
 ###### <a name="viewpager">ViewPager
 
