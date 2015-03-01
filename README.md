@@ -161,6 +161,7 @@ Title | Description | ScreenShot
 [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.|![img](./art/discreteSeekBar.gif)
 [ListViewVariants](https://github.com/AndroidDeveloperLB/ListViewVariants) | Provides special ways to handle ListViews, including PinnedHeaderListView in Lollipop's Contacts' app style.|![img](./art/ListViewVariants.gif)
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | Android library that integrate sticky section headers in your RecyclerView.| None
+[SuperSLiM](https://github.com/TonicArtos/SuperSLiM) | A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design docs.| ![img](./art/SuperSLiM.gif)
 
 ### <a name="location">Location
 
