@@ -159,6 +159,7 @@ Title | Description | ScreenShot
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | A simple take on creating an easy to use and fast material navigation drawer implementation.|![img](./art/MaterialDrawer.png)
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | A material style progress wheel compatible with 2.3.|![img](./art/materialish-progress.gif)
 [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.|![img](./art/discreteSeekBar.gif)
+[ListViewVariants](https://github.com/AndroidDeveloperLB/ListViewVariants) | Provides special ways to handle ListViews, including PinnedHeaderListView in Lollipop's Contacts' app style.|![img](./art/ListViewVariants.gif)
 
 ### <a name="location">Location
 
