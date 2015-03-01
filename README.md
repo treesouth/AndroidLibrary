@@ -1,5 +1,5 @@
 # AndroidLibrary
-A list of awesome Android Open-Source libraries. They must be helpful.
+If I have been able to see further, it was only because I stood on the shoulders of giants.
 
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
@@ -47,11 +47,11 @@ A list of awesome Android Open-Source libraries. They must be helpful.
 &nbsp;&nbsp;&nbsp;&nbsp;[Scan](#scan)  
 &nbsp;&nbsp;&nbsp;&nbsp;[File Pickers](#filepickers) 
 
-### <a name="ui">UI
+## <a name="ui">UI
 
-#### <a name="widgets">Widgets
+### <a name="widgets">Widgets
 
-###### <a name="textview">TextView
+#### <a name="textview">TextView
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [AwesomeText](https://github.com/JMPergar/AwesomeText) | A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...)|![img](./art/AwesomeText.png)
@@ -64,13 +64,13 @@ Title | Description | ScreenShot
 [MagicViews](https://github.com/ikocijan/MagicViews) | Set custom font in Android application.|![img](./art/MagicViews.jpg)
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect.|![img](./art/Shimmer-android.gif)
 
-###### <a name="edittext">EditText
+#### <a name="edittext">EditText
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [floatlabelededittext](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text.|![img](./art/floatlabelededittext.gif)
 [android-edittext-validator](https://github.com/vekexasia/android-edittext-validator) | Android form edit text is an extension of EditText that brings data validation facilities to the edittext.|![img](./art/edittext-validator.jpg)
 
-###### <a name="button">Button
+#### <a name="button">Button
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) | Android Buttons With Built-in Progress Meters.|![img](./art/android-process-button.gif)
@@ -80,7 +80,7 @@ Title | Description | ScreenShot
 [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | Android Circular Progress Button.|![img](./art/circular-progress-button.gif)
 [SwitchButton](https://github.com/kyleduo/SwitchButton) | A cute widget of Switch Button for you to create beautiful and friendly UI.|![img](./art/SwitchButton.png)
 
-###### <a name="imageview">ImageView
+#### <a name="imageview">ImageView
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [ColorArt](https://github.com/MichaelEvans/ColorArt) | ColorArt is a library that uses an image to create a themed image/text display.|![img](./art/ColorArt.png)
@@ -91,7 +91,7 @@ Title | Description | ScreenShot
 [PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures.| 		None    	
 [android-gif-drawable](https://github.com/koral--/android-gif-drawable) | Views and Drawable for displaying animated GIFs on Android.| 		None		
 
-###### <a name="progressbar">ProgressBar
+#### <a name="progressbar">ProgressBar
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar.|![img](./art/SmoothProgressBar.png)
@@ -101,13 +101,13 @@ Title | Description | ScreenShot
 [RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | Round Corner Progress Bar Library for Android.|![img](./art/RoundCornerProgressBar.png)
 [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | A beautiful, slim Android ProgressBar.|![img](./art/NumberProgressBar.png)
 
-###### <a name="actionbar">ActionBar
+#### <a name="actionbar">ActionBar
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring.|![img](./art/NotBoringActionBar.gif)
 [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app.|![img](./art/FadingActionBar.png)
 
-###### <a name="listview">ListView
+#### <a name="listview">ListView
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items.|![img](./art/ListViewAnimations.gif)
@@ -122,35 +122,35 @@ Title | Description | ScreenShot
 [AStickyHeader](https://github.com/DWorkS/AStickyHeader) | AStickyHeader is a simple library for adding Sticky Headers to ListView or GridView. Usage is very simple, it supports all kinds of Adapters.| None
 [PullZoomView](https://github.com/Frank-Zhu/PullZoomView) | An Android custom ListView and ScrollView with pull to zoom-in.| ![img](./art/PullZoomView.gif)
 
-###### <a name="viewpager">ViewPager
+#### <a name="viewpager">ViewPager
 
-###### <a name="gridview">GridView
+#### <a name="gridview">GridView
 
-###### <a name="scrollview">ScrollView
+#### <a name="scrollview">ScrollView
 
-###### <a name="slidingviews">Sliding Views
+#### <a name="slidingviews">Sliding Views
 
-###### <a name="otherwidgets">Other
+#### <a name="otherwidgets">Other
 
-#### <a name="dialogspickersui">Dialogs & Pickers
+### <a name="dialogspickersui">Dialogs & Pickers
 
-#### <a name="toastsui">Toasts
+### <a name="toastsui">Toasts
 
-#### <a name="animationui">Animation
+### <a name="animationui">Animation
 
-###### <a name="parallaxui">Parallax
+#### <a name="parallaxui">Parallax
 
-###### <a name="otheranimation">Other
+#### <a name="otheranimation">Other
 
-#### <a name="mapsui">Maps
+### <a name="mapsui">Maps
 
-#### <a name="validationui">Validation
+### <a name="validationui">Validation
 
-#### <a name="cameraui">Camera
+### <a name="cameraui">Camera
 
-#### <a name="chartsui">Charts
+### <a name="chartsui">Charts
 
-#### <a name="otherui">Other
+### <a name="otherui">Other
 
 ### <a name="material">Material Design
 Title | Description | ScreenShot
@@ -169,11 +169,11 @@ Title | Description | ScreenShot
 
 ### <a name="database">DB & Preferences
 
-###### <a name="databasecp">ContentProvider / ContentResolver / Cursor
+#### <a name="databasecp">ContentProvider / ContentResolver / Cursor
 
-###### <a name="databasepreferences">Preferences
+#### <a name="databasepreferences">Preferences
 
-###### <a name="databaseother">Other
+#### <a name="databaseother">Other
 
 ### <a name="io">IO
 
