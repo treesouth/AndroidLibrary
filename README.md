@@ -111,6 +111,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items.|![img](./art/ListViewAnimations.gif)
+[android-swipelistview](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features.|![img](./art/android-swipelistview.png)
 
 ###### <a name="viewpager">ViewPager
 
