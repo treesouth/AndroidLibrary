@@ -116,6 +116,7 @@ Title | Description | ScreenShot
 [MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter) | A ListView adapter with support for multiple choice modal selection.| ![img](./art/MultiChioceAdapter.png)
 [PagedHeadListView](https://github.com/JorgeCastilloPrz/PagedHeadListView) | Android boosted ListView supporting paginated header with a new material page indicator.| ![img](./art/PagedHeadListView.gif)
 [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView) | Horizontal list view for Android which allows variable items widths.| None
+[SuperListview](https://github.com/dommerq/SuperListview) | Way more than just a listview.| None
 
 ###### <a name="viewpager">ViewPager
 
