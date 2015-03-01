@@ -68,7 +68,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [floatlabelededittext](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text.|![img](./art/floatlabelededittext.gif)
-[android-edittext-validator](https://github.com/vekexasia/android-edittext-validator) | Android form edit text is an extension of EditText that brings data validation facilities to the edittext..|![img](./art/edittext-validator.jpg)
+[android-edittext-validator](https://github.com/vekexasia/android-edittext-validator) | Android form edit text is an extension of EditText that brings data validation facilities to the edittext.|![img](./art/edittext-validator.jpg)
 
 ###### <a name="button">Button
 Title | Description | ScreenShot
@@ -118,8 +118,9 @@ Title | Description | ScreenShot
 [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView) | Horizontal list view for Android which allows variable items widths.| None
 [SuperListview](https://github.com/dommerq/SuperListview) | Way more than just a listview.| None
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top.| ![img](./art/StickyListHeaders.gif)
-[pinned-section-listview](https://github.com/beworker/pinned-section-listview) | Easy to use ListView with pinned sections for Android..| ![img](./art/pinned-section-listview.png)
+[pinned-section-listview](https://github.com/beworker/pinned-section-listview) | Easy to use ListView with pinned sections for Android.| ![img](./art/pinned-section-listview.png)
 [AStickyHeader](https://github.com/DWorkS/AStickyHeader) | AStickyHeader is a simple library for adding Sticky Headers to ListView or GridView. Usage is very simple, it supports all kinds of Adapters.| None
+[PullZoomView](https://github.com/Frank-Zhu/PullZoomView) | An Android custom ListView and ScrollView with pull to zoom-in.| ![img](./art/PullZoomView.gif)
 
 ###### <a name="viewpager">ViewPager
 
