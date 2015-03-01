@@ -108,6 +108,9 @@ Title | Description | ScreenShot
 [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app.|![img](./art/FadingActionBar.png)
 
 ###### <a name="listview">ListView
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items.|![img](./art/ListViewAnimations.gif)
 
 ###### <a name="viewpager">ViewPager
 
