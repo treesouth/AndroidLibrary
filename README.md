@@ -115,6 +115,7 @@ Title | Description | ScreenShot
 [JazzyListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible.| None
 [MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter) | A ListView adapter with support for multiple choice modal selection.| ![img](./art/MultiChioceAdapter.png)
 [PagedHeadListView](https://github.com/JorgeCastilloPrz/PagedHeadListView) | Android boosted ListView supporting paginated header with a new material page indicator.| ![img](./art/PagedHeadListView.gif)
+[HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView) | Horizontal list view for Android which allows variable items widths.| None
 
 ###### <a name="viewpager">ViewPager
 
