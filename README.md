@@ -117,6 +117,7 @@ Title | Description | ScreenShot
 [PagedHeadListView](https://github.com/JorgeCastilloPrz/PagedHeadListView) | Android boosted ListView supporting paginated header with a new material page indicator.| ![img](./art/PagedHeadListView.gif)
 [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView) | Horizontal list view for Android which allows variable items widths.| None
 [SuperListview](https://github.com/dommerq/SuperListview) | Way more than just a listview.| None
+[StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top.| ![img](./art/StickyListHeaders.gif)
 
 ###### <a name="viewpager">ViewPager
 
