@@ -114,6 +114,7 @@ Title | Description | ScreenShot
 [android-swipelistview](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features.|![img](./art/android-swipelistview.png)
 [JazzyListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible.| None
 [MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter) | A ListView adapter with support for multiple choice modal selection.| ![img](./art/MultiChioceAdapter.png)
+[PagedHeadListView](https://github.com/JorgeCastilloPrz/PagedHeadListView) | Android boosted ListView supporting paginated header with a new material page indicator.| ![img](./art/PagedHeadListView.gif)
 
 ###### <a name="viewpager">ViewPager
 
