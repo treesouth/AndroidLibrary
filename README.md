@@ -160,6 +160,7 @@ Title | Description | ScreenShot
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | A material style progress wheel compatible with 2.3.|![img](./art/materialish-progress.gif)
 [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.|![img](./art/discreteSeekBar.gif)
 [ListViewVariants](https://github.com/AndroidDeveloperLB/ListViewVariants) | Provides special ways to handle ListViews, including PinnedHeaderListView in Lollipop's Contacts' app style.|![img](./art/ListViewVariants.gif)
+[recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | Android library that integrate sticky section headers in your RecyclerView.| None
 
 ### <a name="location">Location
 
