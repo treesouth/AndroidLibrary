@@ -118,6 +118,7 @@ Title | Description | ScreenShot
 [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView) | Horizontal list view for Android which allows variable items widths.| None
 [SuperListview](https://github.com/dommerq/SuperListview) | Way more than just a listview.| None
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top.| ![img](./art/StickyListHeaders.gif)
+[pinned-section-listview](https://github.com/beworker/pinned-section-listview) | Easy to use ListView with pinned sections for Android..| ![img](./art/pinned-section-listview.png)
 
 ###### <a name="viewpager">ViewPager
 
