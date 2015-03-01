@@ -113,6 +113,7 @@ Title | Description | ScreenShot
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items.|![img](./art/ListViewAnimations.gif)
 [android-swipelistview](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features.|![img](./art/android-swipelistview.png)
 [JazzyListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible.| None
+[MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter) | A ListView adapter with support for multiple choice modal selection.| ![img](./art/MultiChioceAdapter.png)
 
 ###### <a name="viewpager">ViewPager
 
