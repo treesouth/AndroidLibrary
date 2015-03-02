@@ -128,6 +128,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView) | Android ListView that mimics a GridView with asymmetric items. Supports items with row span and column span.|![img](./art/AsymmetricGridView.png)
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine that decouples layouts from the View containers that manage scrolling and view recycling. It makes it really easy to create custom layouts and beautiful transition animations as data and layouts change.|![img](./art/FreeFlow.png)
+[AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | An Android staggered grid view which supports multiple columns with rows of varying sizes.|![img](./art/AndroidStaggeredGrid.png)
 
 #### <a name="scrollview">ScrollView
 
