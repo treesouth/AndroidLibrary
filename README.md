@@ -131,6 +131,7 @@ Title | Description | ScreenShot
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | An Android staggered grid view which supports multiple columns with rows of varying sizes.|![img](./art/AndroidStaggeredGrid.png)
 [two-way-gridview](https://github.com/jess-anders/two-way-gridview) | An Android GridView that can be configured to scroll horizontally or vertically.| None
 [DynamicGrid](https://github.com/askerov/DynamicGrid) | Drag and drop GridView for Android.|![img](./art/DynamicGrid.png)
+[GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter) | GridView with Header and Footer.|![img](./art/GridViewWithHeaderAndFooter.png)
 
 #### <a name="scrollview">ScrollView
 
