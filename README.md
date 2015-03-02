@@ -130,6 +130,7 @@ Title | Description | ScreenShot
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine that decouples layouts from the View containers that manage scrolling and view recycling. It makes it really easy to create custom layouts and beautiful transition animations as data and layouts change.|![img](./art/FreeFlow.png)
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | An Android staggered grid view which supports multiple columns with rows of varying sizes.|![img](./art/AndroidStaggeredGrid.png)
 [two-way-gridview](https://github.com/jess-anders/two-way-gridview) | An Android GridView that can be configured to scroll horizontally or vertically.| None
+[DynamicGrid](https://github.com/askerov/DynamicGrid) | Drag and drop GridView for Android.|![img](./art/DynamicGrid.png)
 
 #### <a name="scrollview">ScrollView
 
