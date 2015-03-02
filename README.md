@@ -132,6 +132,7 @@ Title | Description | ScreenShot
 [two-way-gridview](https://github.com/jess-anders/two-way-gridview) | An Android GridView that can be configured to scroll horizontally or vertically.| None
 [DynamicGrid](https://github.com/askerov/DynamicGrid) | Drag and drop GridView for Android.|![img](./art/DynamicGrid.png)
 [GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter) | GridView with Header and Footer.|![img](./art/GridViewWithHeaderAndFooter.png)
+[PagingGridView](https://github.com/nicolasjafelle/PagingGridView) | A Paging GridView with the same behavior as PagingListView.| None
 
 #### <a name="scrollview">ScrollView
 
