@@ -135,6 +135,9 @@ Title | Description | ScreenShot
 [PagingGridView](https://github.com/nicolasjafelle/PagingGridView) | A Paging GridView with the same behavior as PagingListView.| None
 
 #### <a name="scrollview">ScrollView
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[discrollview](https://github.com/flavienlaurent/discrollview) | Scroll + discover = DiscrollView.|![img](./art/discrollview.gif)
 
 #### <a name="viewpager">ViewPager
 
