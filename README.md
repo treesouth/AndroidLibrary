@@ -151,6 +151,7 @@ Title | Description | ScreenShot
 [TabBarView](https://github.com/Mirkoddd/TabBarView) | An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier.|![img](./art/TabBarView.png)
 [ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) | NewsStand Application for Android's view of play, such as a pager function that implements the code.|![img](./art/Android-ParallaxHeaderViewPager.png)
 [ParallaxPager](https://github.com/prolificinteractive/ParallaxPager) | Add some depth to your Android scrolling.|![img](./art/ParallaxPager.gif)
+[JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) | An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!| None
 
 #### <a name="slidingviews">Sliding Views
 
