@@ -148,6 +148,7 @@ Title | Description | ScreenShot
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | A pager for Android with parallax effect.| None
 [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) | An android view pager wrapped inside of a circular progress bar.|![img](./art/CircularBarPager.gif)
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | A lightweight viewpager indicator like in nexus 5 launcher.|![img](./art/CircleIndicator.gif)
+[TabBarView](https://github.com/Mirkoddd/TabBarView) | An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier.|![img](./art/TabBarView.png)
 
 #### <a name="slidingviews">Sliding Views
 
