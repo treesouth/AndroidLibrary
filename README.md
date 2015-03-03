@@ -152,6 +152,7 @@ Title | Description | ScreenShot
 [ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) | NewsStand Application for Android's view of play, such as a pager function that implements the code.|![img](./art/Android-ParallaxHeaderViewPager.png)
 [ParallaxPager](https://github.com/prolificinteractive/ParallaxPager) | Add some depth to your Android scrolling.|![img](./art/ParallaxPager.gif)
 [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) | An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!| None
+[auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager) | Android auto scroll viewpager or viewpager in viewpager.|![img](./art/android-auto-scroll-view-pager.gif)
 
 #### <a name="slidingviews">Sliding Views
 
