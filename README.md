@@ -202,6 +202,8 @@ Title | Description | ScreenShot
 [MaterialTabs](https://github.com/neokree/MaterialTabs) | Custom Tabs with Material Design effects.| ![img](./art/MaterialTabs.png)
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | Android Sample Project with Material Design and Toolbar.| ![img](./art/AndroidMaterialDesignToolbar.gif)
 [LDrawer](https://github.com/ikimuhendis/LDrawer) | Android drawer icon with material design animation.| ![img](./art/LDrawer.gif)
+[NavigationDrawer-Material](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) | Android drawer icon with material design animation.| ![img](./art/NavigationDrawer-MaterialDesign.png)
+[MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) | Navigation Drawer Activity with material design style and simplified methods.| ![img](./art/MaterialNavigationDrawer.png)
 
 ### <a name="location">Location
 
