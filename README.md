@@ -161,6 +161,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [sliding-pane-layout](https://github.com/chiuki/sliding-pane-layout) | SlidingPaneLayout that is partially visible, with cross fade.|![img](./art/sliding-pane-layout.gif)
+[AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | An amazing and convenient Android image slider.|![img](./art/AndroidImageSlider.gif)
 
 #### <a name="otherwidgets">Other
 
