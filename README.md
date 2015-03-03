@@ -143,6 +143,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [MultiViewPager](https://github.com/Pixplicity/MultiViewPager) | The MultiViewPager allows the pages to be wider or narrower than the ViewPager itself. It takes care of aligning the pages next to each other, and always keeping the selected page centered.|![img](./art/MultiViewPager.gif)
+[freepager](https://github.com/alexzaitsev/freepager) | ViewPagers library for Android.|![img](./art/freepager.gif)
 
 #### <a name="slidingviews">Sliding Views
 
