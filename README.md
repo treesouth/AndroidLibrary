@@ -153,6 +153,7 @@ Title | Description | ScreenShot
 [ParallaxPager](https://github.com/prolificinteractive/ParallaxPager) | Add some depth to your Android scrolling.|![img](./art/ParallaxPager.gif)
 [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) | An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!| None
 [auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager) | Android auto scroll viewpager or viewpager in viewpager.|![img](./art/android-auto-scroll-view-pager.gif)
+[PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) | An interactive indicator to navigate between the different pages of a ViewPager.|![img](./art/PagerSlidingTabStrip.png)
 
 #### <a name="slidingviews">Sliding Views
 
