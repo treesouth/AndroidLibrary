@@ -140,6 +140,9 @@ Title | Description | ScreenShot
 [discrollview](https://github.com/flavienlaurent/discrollview) | Scroll + discover = DiscrollView.|![img](./art/discrollview.gif)
 
 #### <a name="viewpager">ViewPager
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[MultiViewPager](https://github.com/Pixplicity/MultiViewPager) | The MultiViewPager allows the pages to be wider or narrower than the ViewPager itself. It takes care of aligning the pages next to each other, and always keeping the selected page centered.|![img](./art/MultiViewPager.gif)
 
 #### <a name="slidingviews">Sliding Views
 
