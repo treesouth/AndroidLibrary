@@ -175,6 +175,7 @@ Title | Description | ScreenShot
 [ListViewVariants](https://github.com/AndroidDeveloperLB/ListViewVariants) | Provides special ways to handle ListViews, including PinnedHeaderListView in Lollipop's Contacts' app style.|![img](./art/ListViewVariants.gif)
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | Android library that integrate sticky section headers in your RecyclerView.| None
 [SuperSLiM](https://github.com/TonicArtos/SuperSLiM) | A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design docs.| ![img](./art/SuperSLiM.gif)
+[ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | Android library to observe scroll events on scrollable views.| None
 
 ### <a name="location">Location
 
