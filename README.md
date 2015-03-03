@@ -163,6 +163,7 @@ Title | Description | ScreenShot
 [sliding-pane-layout](https://github.com/chiuki/sliding-pane-layout) | SlidingPaneLayout that is partially visible, with cross fade.|![img](./art/sliding-pane-layout.gif)
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | An amazing and convenient Android image slider.|![img](./art/AndroidImageSlider.gif)
 [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.|![img](./art/AndroidSlidingUpPanel.png)
+[BottomSheet](https://github.com/soarcn/BottomSheet) | One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.|![img](./art/BottomSheet.png)
 
 #### <a name="otherwidgets">Other
 
