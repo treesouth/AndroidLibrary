@@ -158,6 +158,9 @@ Title | Description | ScreenShot
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | Library containing common animations needed for transforming ViewPager scrolling for Android v13+.|![img](./art/ViewPagerTransforms.gif)
 
 #### <a name="slidingviews">Sliding Views
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[sliding-pane-layout](https://github.com/chiuki/sliding-pane-layout) | SlidingPaneLayout that is partially visible, with cross fade.|![img](./art/sliding-pane-layout.gif)
 
 #### <a name="otherwidgets">Other
 
