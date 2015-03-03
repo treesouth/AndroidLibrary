@@ -164,6 +164,7 @@ Title | Description | ScreenShot
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | An amazing and convenient Android image slider.|![img](./art/AndroidImageSlider.gif)
 [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.|![img](./art/AndroidSlidingUpPanel.png)
 [BottomSheet](https://github.com/soarcn/BottomSheet) | One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.|![img](./art/BottomSheet.png)
+[android-sliding-layer-lib](https://github.com/wunderlist/android-sliding-layer-lib) |This repository host a library that provides an easy way to include an autonomous layer/view that slides from any side of your screen and which is fully gesture ready.| None
 
 #### <a name="otherwidgets">Other
 
