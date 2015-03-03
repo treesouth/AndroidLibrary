@@ -149,6 +149,7 @@ Title | Description | ScreenShot
 [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) | An android view pager wrapped inside of a circular progress bar.|![img](./art/CircularBarPager.gif)
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | A lightweight viewpager indicator like in nexus 5 launcher.|![img](./art/CircleIndicator.gif)
 [TabBarView](https://github.com/Mirkoddd/TabBarView) | An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier.|![img](./art/TabBarView.png)
+[ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) | NewsStand Application for Android's view of play, such as a pager function that implements the code.|![img](./art/Android-ParallaxHeaderViewPager.png)
 
 #### <a name="slidingviews">Sliding Views
 
