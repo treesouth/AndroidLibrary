@@ -147,6 +147,7 @@ Title | Description | ScreenShot
 [parallaxviewpager](https://github.com/andraskindler/parallaxviewpager) | An easy-to-use ViewPager subclass with parallax background effect for Android apps.| None
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | A pager for Android with parallax effect.| None
 [CircularBarPager](https://github.com/OrangeGangsters/CircularBarPager) | An android view pager wrapped inside of a circular progress bar.|![img](./art/CircularBarPager.gif)
+[CircleIndicator](https://github.com/ongakuer/CircleIndicator) | A lightweight viewpager indicator like in nexus 5 launcher.|![img](./art/CircleIndicator.gif)
 
 #### <a name="slidingviews">Sliding Views
 
