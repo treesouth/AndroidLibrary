@@ -170,6 +170,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects) | Nifty Modal Dialog Effects.|![img](./art/NiftyDialogEffects.gif)
+[sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) | SweetAlert for Android, a beautiful and clever alert dialog.|![img](./art/sweet-alert-dialog.gif)
 
 ### <a name="toastsui">Toasts
 
