@@ -208,6 +208,7 @@ Title | Description | ScreenShot
 [NavigationDrawer-Material](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) | Android drawer icon with material design animation.| ![img](./art/NavigationDrawer-MaterialDesign.png)
 [MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) | Navigation Drawer Activity with material design style and simplified methods.| ![img](./art/MaterialNavigationDrawer.png)
 [material-dialogs](https://github.com/afollestad/material-dialogs) | A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material design themed dialogs across all versions of Android (unlike AppCompat).| ![img](./art/material-dialogs.png)
+[android-styled-dialogs](https://github.com/avast/android-styled-dialogs) | Backport of Material dialogs with easy-to-use API based on DialogFragment.| ![img](./art/android-styled-dialogs.png)
 
 ### <a name="location">Location
 
