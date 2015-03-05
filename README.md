@@ -15,8 +15,7 @@ If I have been able to see further, it was only because I stood on the shoulders
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ScrollView](#scrollview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ViewPaper](#viewpaper)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs & Pickers](#dialogspickersui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs](#dialogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
@@ -167,9 +166,10 @@ Title | Description | ScreenShot
 [BottomSheet](https://github.com/soarcn/BottomSheet) | One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.|![img](./art/BottomSheet.png)
 [android-sliding-layer-lib](https://github.com/wunderlist/android-sliding-layer-lib) |This repository host a library that provides an easy way to include an autonomous layer/view that slides from any side of your screen and which is fully gesture ready.| None
 
-#### <a name="otherwidgets">Other
-
-### <a name="dialogspickersui">Dialogs & Pickers
+### <a name="dialogs">Dialogs
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects) | Nifty Modal Dialog Effects.|![img](./art/NiftyDialogEffects.gif)
 
 ### <a name="toastsui">Toasts
 
