@@ -211,6 +211,7 @@ Title | Description | ScreenShot
 [android-styled-dialogs](https://github.com/avast/android-styled-dialogs) | Backport of Material dialogs with easy-to-use API based on DialogFragment.| ![img](./art/android-styled-dialogs.png)
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | An Android dialog library, has strong extensibility, customizability, and for conveniently building Material Design Dialog in Android version 2.2 ~ L.| ![img](./art/MaterialDialog.png)
 [floating-action-button](https://github.com/futuresimple/android-floating-action-button) | Floating Action Button for Android based on Material Design specification.| ![img](./art/android-floating-action-button.png)
+[material-calendarview](https://github.com/prolificinteractive/material-calendarview) | A Material-looking Android CalendarView.| ![img](./art/material-calendarview.gif)
 
 ### <a name="location">Location
 
