@@ -178,6 +178,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [NiftyNotification](https://github.com/sd6352051/NiftyNotification) | effects for android notifications.|![img](./art/NiftyNotification.gif)
 [SuperToasts](https://github.com/JohnPersano/SuperToasts) | A library that extends the Android toast framework.|![img](./art/SuperToasts.png)
+[Crouton](https://github.com/keyboardsurfer/Crouton) | Context sensitive notifications for Android.|![img](./art/Crouton.png)
 
 ### <a name="animationui">Animation
 
