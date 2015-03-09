@@ -218,6 +218,7 @@ Title | Description | ScreenShot
 [floating-action-button](https://github.com/futuresimple/android-floating-action-button) | Floating Action Button for Android based on Material Design specification.| ![img](./art/android-floating-action-button.png)
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | A Material-looking Android CalendarView.| ![img](./art/material-calendarview.gif)
 [snackbar](https://github.com/nispok/snackbar) | Android Library that implements Snackbars from Google's Material Design documentation.| ![img](./art/snackbar.png)
+[SnackBar](https://github.com/MrEngineer13/SnackBar) | toast-like alert pattern for Android inspired by the Google Material Design Spec.| ![img](./art/SnackBar2.png)
 
 ### <a name="location">Location
 
