@@ -174,6 +174,9 @@ Title | Description | ScreenShot
 [UpdateChecker](https://github.com/rampo/UpdateChecker) | Increase your app's updates.|![img](./art/UpdateChecker.png)
 
 ### <a name="toastsui">Toasts
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[NiftyNotification](https://github.com/sd6352051/NiftyNotification) | effects for android notifications.|![img](./art/NiftyNotification.gif)
 
 ### <a name="animationui">Animation
 
