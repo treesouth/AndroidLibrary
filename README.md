@@ -177,6 +177,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [NiftyNotification](https://github.com/sd6352051/NiftyNotification) | effects for android notifications.|![img](./art/NiftyNotification.gif)
+[SuperToasts](https://github.com/JohnPersano/SuperToasts) | A library that extends the Android toast framework.|![img](./art/SuperToasts.png)
 
 ### <a name="animationui">Animation
 
