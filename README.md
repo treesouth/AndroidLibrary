@@ -217,6 +217,7 @@ Title | Description | ScreenShot
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | An Android dialog library, has strong extensibility, customizability, and for conveniently building Material Design Dialog in Android version 2.2 ~ L.| ![img](./art/MaterialDialog.png)
 [floating-action-button](https://github.com/futuresimple/android-floating-action-button) | Floating Action Button for Android based on Material Design specification.| ![img](./art/android-floating-action-button.png)
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | A Material-looking Android CalendarView.| ![img](./art/material-calendarview.gif)
+[snackbar](https://github.com/nispok/snackbar) | Android Library that implements Snackbars from Google's Material Design documentation.| ![img](./art/snackbar.png)
 
 ### <a name="location">Location
 
