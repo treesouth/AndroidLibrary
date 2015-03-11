@@ -186,6 +186,7 @@ Title | Description | ScreenShot
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | FragmentTransactionExtended is a library which provide us a set of custom animations between fragments.|![img](./art/FragmentTransactionExtended.gif)
 [AndroidIndicators](https://github.com/MoshDev/AndroidIndicators) | A simple library to add some effect to screen title.|![img](./art/AndroidIndicators.gif)
 [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | An Android Animation library which easily add itemanimator to RecyclerView items.|![img](./art/recyclerview-animators.gif)
+[RecyclerViewItemAnimators](https://github.com/nvanbenschoten/motion) | An Android library which provides simple Item animations to RecyclerView items.|![img](./art/RecyclerViewItemAnimators.gif)
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | Backport of Transitions API for animations from Android KitKat and Lollipop. Compatible with Android 2.2+.|![img](./art/transitions-everywhere.gif)
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | A spring indicator like Morning Routine guide.|![img](./art/SpringIndicator.gif)
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | It is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects with one or two lines of code.|![img](./art/EasyAndroidAnimations.png)
@@ -206,7 +207,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [material-menu](https://github.com/balysv/material-menu) | Animation port of Android L drawer, back, dismiss and check icons.|![img](./art/material-menu.gif)
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | A simple take on creating an easy to use and fast material navigation drawer implementation.|![img](./art/MaterialDrawer.png)
-[materialish-progress](https://github.com/pnikosis/materialish-progress) | A material style progress wheel compatible with 2.3.|![img](./art/materialish-progress.gif)
+[materialish-progress](https://github.com/gabrielemariotti/RecyclerViewItemAnimators) | A material style progress wheel compatible with 2.3.|![img](./art/materialish-progress.gif)
 [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.|![img](./art/discreteSeekBar.gif)
 [ListViewVariants](https://github.com/AndroidDeveloperLB/ListViewVariants) | Provides special ways to handle ListViews, including PinnedHeaderListView in Lollipop's Contacts' app style.|![img](./art/ListViewVariants.gif)
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | Android library that integrate sticky section headers in your RecyclerView.| None
