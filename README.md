@@ -194,6 +194,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [EazeGraph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library.|![img](./art/EazeGraph.png)
+[WilliamChart](https://github.com/diogobernardino/WilliamChart) | Android library to create charts.|![img](./art/WilliamChart.gif)
 
 ### <a name="otherui">Other
 
