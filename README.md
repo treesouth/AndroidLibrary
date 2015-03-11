@@ -17,10 +17,7 @@ If I have been able to see further, it was only because I stood on the shoulders
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs](#dialogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#mapsui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Charts](#chartsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Material Design](#material)  
@@ -193,13 +190,10 @@ Title | Description | ScreenShot
 [motion](https://github.com/nvanbenschoten/motion) | An Android library allowing images to exhibit a parallax effect that reacts to the device's tilt.|![img](./art/motion.png)
 [rebound](https://github.com/facebook/rebound) | A Java library that models spring dynamics and adds real world physics to your app.| None
 
-### <a name="mapsui">Maps
-
-### <a name="validationui">Validation
-
-### <a name="cameraui">Camera
-
 ### <a name="chartsui">Charts
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[EazeGraph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library.|![img](./art/EazeGraph.png)
 
 ### <a name="otherui">Other
 
