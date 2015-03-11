@@ -20,15 +20,8 @@ If I have been able to see further, it was only because I stood on the shoulders
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Charts](#chartsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](#material)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
-&nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ContentProvider / ContentResolver / Cursor](#databasecp)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Preferences](#databasepreferences)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#databaseother)  
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;[Material Design](#material)   
+&nbsp;&nbsp;&nbsp;&nbsp;[Preferences](#preference)  
 &nbsp;&nbsp;&nbsp;&nbsp;[IO](#io)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Event Bus](#eventbus)  
@@ -223,17 +216,12 @@ Title | Description | ScreenShot
 [snackbar](https://github.com/nispok/snackbar) | Android Library that implements Snackbars from Google's Material Design documentation.| ![img](./art/snackbar.png)
 [SnackBar](https://github.com/MrEngineer13/SnackBar) | toast-like alert pattern for Android inspired by the Google Material Design Spec.| ![img](./art/SnackBar2.png)
 
-### <a name="location">Location
-
-### <a name="social">Social
-
-### <a name="database">DB & Preferences
-
-#### <a name="databasecp">ContentProvider / ContentResolver / Cursor
-
-#### <a name="databasepreferences">Preferences
-
-#### <a name="databaseother">Other
+### <a name="preference">Preferences
+Title | Description 
+:-----------: | :-----------: 
+[hawk](https://github.com/orhanobut/hawk) | Secure Simple Key-Value Storage for Android.
+[secure-preferences](https://github.com/scottyab/secure-preferences) | Android Shared preference wrapper than encrypts the keys and values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure.
+[esperandro](https://github.com/dkunzler/esperandro) | Esperandro is for everybody that uses SharedPreferences in his Android App and is tired of the verbose usage of them.
 
 ### <a name="io">IO
 
