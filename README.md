@@ -182,6 +182,7 @@ Title | Description | ScreenShot
 Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | Cute view animation collection.|![img](./art/AndroidViewAnimations.gif)
+[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | Android Animation Easing Functions. Let's make animation more real!|![img](./art/AnimationEasingFunctions.gif)
 
 ### <a name="mapsui">Maps
 
