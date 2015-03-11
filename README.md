@@ -191,6 +191,7 @@ Title | Description | ScreenShot
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | A spring indicator like Morning Routine guide.|![img](./art/SpringIndicator.gif)
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | It is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects with one or two lines of code.|![img](./art/EasyAndroidAnimations.png)
 [motion](https://github.com/nvanbenschoten/motion) | An Android library allowing images to exhibit a parallax effect that reacts to the device's tilt.|![img](./art/motion.png)
+[rebound](https://github.com/facebook/rebound) | A Java library that models spring dynamics and adds real world physics to your app.| None
 
 ### <a name="mapsui">Maps
 
