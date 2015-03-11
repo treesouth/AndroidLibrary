@@ -189,6 +189,7 @@ Title | Description | ScreenShot
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | Backport of Transitions API for animations from Android KitKat and Lollipop. Compatible with Android 2.2+.|![img](./art/transitions-everywhere.gif)
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | A spring indicator like Morning Routine guide.|![img](./art/SpringIndicator.gif)
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | It is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects with one or two lines of code.|![img](./art/EasyAndroidAnimations.png)
+[motion](https://github.com/nvanbenschoten/motion) | An Android library allowing images to exhibit a parallax effect that reacts to the device's tilt.|![img](./art/motion.png)
 
 ### <a name="mapsui">Maps
 
