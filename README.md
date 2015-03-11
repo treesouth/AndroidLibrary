@@ -195,6 +195,7 @@ Title | Description | ScreenShot
 :-----------: | :-----------: | :-----------:
 [EazeGraph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library.|![img](./art/EazeGraph.png)
 [WilliamChart](https://github.com/diogobernardino/WilliamChart) | Android library to create charts.|![img](./art/WilliamChart.gif)
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | A powerful Android chart view / graph view library, supporting line- bar- pie- radar- and candlestick charts as well as scaling, dragging and animations.|![img](./art/MPAndroidChart.png)
 
 ### <a name="otherui">Other
 
