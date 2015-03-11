@@ -184,6 +184,7 @@ Title | Description | ScreenShot
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | Cute view animation collection.|![img](./art/AndroidViewAnimations.gif)
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | Android Animation Easing Functions. Let's make animation more real!|![img](./art/AnimationEasingFunctions.gif)
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | FragmentTransactionExtended is a library which provide us a set of custom animations between fragments.|![img](./art/FragmentTransactionExtended.gif)
+[AndroidIndicators](https://github.com/MoshDev/AndroidIndicators) | A simple library to add some effect to screen title.|![img](./art/AndroidIndicators.gif)
 
 ### <a name="mapsui">Maps
 
