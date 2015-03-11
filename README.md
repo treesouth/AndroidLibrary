@@ -185,6 +185,7 @@ Title | Description | ScreenShot
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | Android Animation Easing Functions. Let's make animation more real!|![img](./art/AnimationEasingFunctions.gif)
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | FragmentTransactionExtended is a library which provide us a set of custom animations between fragments.|![img](./art/FragmentTransactionExtended.gif)
 [AndroidIndicators](https://github.com/MoshDev/AndroidIndicators) | A simple library to add some effect to screen title.|![img](./art/AndroidIndicators.gif)
+[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | An Android Animation library which easily add itemanimator to RecyclerView items.|![img](./art/recyclerview-animators.gif)
 
 ### <a name="mapsui">Maps
 
