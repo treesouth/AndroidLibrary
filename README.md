@@ -188,6 +188,7 @@ Title | Description | ScreenShot
 [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | An Android Animation library which easily add itemanimator to RecyclerView items.|![img](./art/recyclerview-animators.gif)
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | Backport of Transitions API for animations from Android KitKat and Lollipop. Compatible with Android 2.2+.|![img](./art/transitions-everywhere.gif)
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | A spring indicator like Morning Routine guide.|![img](./art/SpringIndicator.gif)
+[EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | It is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects with one or two lines of code.|![img](./art/EasyAndroidAnimations.png)
 
 ### <a name="mapsui">Maps
 
