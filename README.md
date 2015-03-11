@@ -18,8 +18,6 @@ If I have been able to see further, it was only because I stood on the shoulders
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs](#dialogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otheranimation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#mapsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
@@ -181,10 +179,9 @@ Title | Description | ScreenShot
 [Crouton](https://github.com/keyboardsurfer/Crouton) | Context sensitive notifications for Android.|![img](./art/Crouton.png)
 
 ### <a name="animationui">Animation
-
-#### <a name="parallaxui">Parallax
-
-#### <a name="otheranimation">Other
+Title | Description | ScreenShot
+:-----------: | :-----------: | :-----------:
+[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | Cute view animation collection.|![img](./art/AndroidViewAnimations.gif)
 
 ### <a name="mapsui">Maps
 
