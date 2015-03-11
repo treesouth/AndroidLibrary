@@ -186,6 +186,7 @@ Title | Description | ScreenShot
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | FragmentTransactionExtended is a library which provide us a set of custom animations between fragments.|![img](./art/FragmentTransactionExtended.gif)
 [AndroidIndicators](https://github.com/MoshDev/AndroidIndicators) | A simple library to add some effect to screen title.|![img](./art/AndroidIndicators.gif)
 [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | An Android Animation library which easily add itemanimator to RecyclerView items.|![img](./art/recyclerview-animators.gif)
+[transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | Backport of Transitions API for animations from Android KitKat and Lollipop. Compatible with Android 2.2+.|![img](./art/transitions-everywhere.gif)
 
 ### <a name="mapsui">Maps
 
