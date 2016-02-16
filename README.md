@@ -185,6 +185,7 @@ Title | Description | ScreenShot
 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | A powerful Android chart view / graph view library, supporting line- bar- pie- radar- and candlestick charts as well as scaling, dragging and animations.|![img](./art/MPAndroidChart.png)
 
 ### <a name="otherui">Other
+[EntryScreenManager](https://github.com/kunall17/EntryScreenManager) |A Project which allows you to add the startup/Entry/Walkthrough/Intro screens you see in many other apps!|![img](art/entryscreen.gif)
 
 ### <a name="material">Material Design
 Title | Description | ScreenShot
